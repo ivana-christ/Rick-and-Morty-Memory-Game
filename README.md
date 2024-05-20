@@ -1,4 +1,4 @@
-# RICKY AND MORTY MEMORY GAME
+# RICK AND MORTY MEMORY GAME
 #### Video Demo: [Watch the game on Youtube here! :computer:](https://www.youtube.com/watch?v=1szWUNK40HY)
 #### Description:
 
